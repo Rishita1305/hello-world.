@@ -1,21 +1,11 @@
-/**  
- * @file Calculator.cpp  
- * @brief Implementation of the Calculator class.  
- */
-
+#nikita edited this
 #include "Calculator.h"
 #include <stdexcept>
 
-/**  
- * @brief Adds two numbers.  
- */
 double Calculator::add(double a, double b) {
     return a + b;
 }
 
-/**  
- * @brief Subtracts two numbers.  
- */
 double Calculator::subtract(double a, double b) {
     return a - b;
 }
